@@ -41,5 +41,5 @@ The total amount after 2 years would be:
 
 ## Author
 
-Rana Riaz Shah
+Muhammad Riaz
 
